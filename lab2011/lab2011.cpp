@@ -1,4 +1,4 @@
-#include <iostream>     //лаба
+#include <iostream>     //лаба арабские числа
 #include <string> 
 using namespace std;
 
