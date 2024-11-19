@@ -1,0 +1,3 @@
+﻿  lab2011.cpp
+C:\Users\pozit\source\repos\lab2011\lab2011\lab2011.cpp(40,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab2011.vcxproj -> C:\Users\pozit\source\repos\lab2011\x64\Debug\lab2011.exe
